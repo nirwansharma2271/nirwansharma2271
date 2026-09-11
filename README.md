@@ -4,7 +4,7 @@ Welcome to my GitHub profile!
 
 ## Who am I?
 
-I'm a **11th-grade student from India**. I'm passionate about **Physics, Chemistry, and Mathematics** and always on the lookout for **challenging problems** to solve.  
+I'm an **11th-grade student from India**. I'm passionate about **Physics, Chemistry, and Mathematics** and always on the lookout for **challenging problems** to solve.  
 
 Aside from academics, I'm also into **coding**! I’m working on **many codes** using **HTML, CSS, or Python**. It's been a fun and creative journey, and I love learning new things every day!
 
